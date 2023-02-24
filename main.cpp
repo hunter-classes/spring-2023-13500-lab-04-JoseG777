@@ -7,7 +7,7 @@ int main(){
 
     std::cout<< checkers(7, 7)<<"\n";
 
-    std::cout<<cross(7)<<"\n";
+    std::cout<< cross(7)<<"\n";
 
     std::cout<< ltriangle(7) <<"\n";
 
